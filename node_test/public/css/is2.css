@@ -1,0 +1,19 @@
+﻿span.string {
+    margin-left: 20px;
+}
+.navbutton  
+{
+    line-height: 50px;
+    height: 70px;
+}
+
+.submenu 
+{
+    display:none;
+}
+    
+#submenu 
+{
+position:relative;
+left:-33px;
+}

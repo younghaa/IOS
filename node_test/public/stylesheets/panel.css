@@ -1,0 +1,45 @@
+body {
+	background-color: black;
+ 	padding: 50px;
+ 	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+ 	color:white;
+}
+h1{
+	margin-top:0;
+}
+a {
+  color: #00B7FF;
+}
+
+.settingscontainer{
+}
+.container{
+		display:inline-block;
+		margin:0 auto;
+		
+		
+}
+.sidecontainer{
+	height:600px;
+	width:300px;
+	margin:0;
+	float:left;
+	border-style:solid;
+	border-color:white;
+	
+}
+.functioncontainer{
+	height:600px;
+	width:1800px;
+	margin:0;
+	border-style:solid;
+	border-color:white;
+}
+.bottomcontainer{
+	width:1800px;
+	height:250px;
+	margin :0;
+	margin-top:20px;
+	border-style:solid;
+	border-color:white;
+}
